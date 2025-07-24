@@ -1,5 +1,10 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://warrantaid.co.uk/sitemap.xml
 
-# Optimized for WarrantAid UK Warranty Tracker keywords
+# Point to sitemap
+Sitemap: https://yourusername.github.io/warrantaid-meta/sitemap.xml
+
+# SEO keywords hint
+# Warranty Tracker UK, Subscription Alerts, Recall Notifications

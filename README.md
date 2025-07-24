@@ -1,2 +1,15 @@
-# warrantaid-meta
-Meta files for WarrantAid SEO (robots.txt, sitemap.xml, humans.txt, security.txt)
+# WarrantAid Meta Files
+
+This repository contains meta configuration files for SEO and security:
+
+- **robots.txt**: Tells search engines what to index.
+- **sitemap.xml**: Provides search engines with the site structure.
+- **humans.txt**: Lists credits and site information.
+- **security.txt**: Security contact information.
+
+## Deployment
+These files are deployed via GitHub Pages and served at:
+- https://warrantaid.github.io/warrantaid-meta/robots.txt
+- https://warrantaid.github.io/warrantaid-meta/sitemap.xml
+- https://warrantaid.github.io/warrantaid-meta/humans.txt
+- https://warrantaid.github.io/warrantaid-meta/security.txt

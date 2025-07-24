@@ -1,8 +1,11 @@
 /* TEAM */
 Developer: WarrantAid Ltd
 Website: https://warrantaid.co.uk
-Contact: info@warrantaid.co.uk
+Location: United Kingdom
 
 /* SITE */
-Last update: 2025
-Language: English
+Standards: HTML5, CSS3, JavaScript, GDPR-Compliant
+Components: Carrd Platform
+
+/* THANKS */
+Thanks to all contributors and partners.
