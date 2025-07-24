@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Main Page -->
   <url>
     <loc>https://warrantaid.co.uk/</loc>
     <lastmod>2025-07-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-  <!-- Add other Carrd page URLs here if any -->
+
+  <!-- Additional Sections -->
+  <url>
+    <loc>https://warrantaid.co.uk/#cookie</loc>
+    <lastmod>2025-07-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://warrantaid.co.uk/#privacy</loc>
+    <lastmod>2025-07-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://warrantaid.co.uk/#terms</loc>
+    <lastmod>2025-07-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://warrantaid.co.uk/#dataprocessing</loc>
+    <lastmod>2025-07-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://warrantaid.co.uk/#signup</loc>
+    <lastmod>2025-07-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://warrantaid.co.uk/#thankyou</loc>
+    <lastmod>2025-07-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
