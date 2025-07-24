@@ -1,60 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <!-- Home page -->
   <url>
     <loc>https://warrantaid.co.uk/</loc>
     <lastmod>2025-07-24</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-
-  <!-- Cookie Policy -->
   <url>
     <loc>https://warrantaid.co.uk/#cookie</loc>
-    <lastmod>2025-07-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <!-- Privacy Policy -->
-  <url>
-    <loc>https://warrantaid.co.uk/#privacy</loc>
-    <lastmod>2025-07-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <!-- Terms and Conditions -->
-  <url>
-    <loc>https://warrantaid.co.uk/#terms</loc>
-    <lastmod>2025-07-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <!-- Data Processing Policy -->
-  <url>
-    <loc>https://warrantaid.co.uk/#dataprocessing</loc>
-    <lastmod>2025-07-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-
-  <!-- Signup Page -->
-  <url>
-    <loc>https://warrantaid.co.uk/#signup</loc>
-    <lastmod>2025-07-24</lastmod>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-
-  <!-- Thank You Page -->
+  <url>
+    <loc>https://warrantaid.co.uk/#privacy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://warrantaid.co.uk/#terms</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://warrantaid.co.uk/#dataprocessing</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://warrantaid.co.uk/#signup</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
     <loc>https://warrantaid.co.uk/#thankyou</loc>
-    <lastmod>2025-07-24</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.5</priority>
   </url>
-
 </urlset>

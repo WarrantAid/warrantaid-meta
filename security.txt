@@ -1,4 +1,5 @@
 Contact: mailto:info@warrantaid.co.uk
 Encryption: https://warrantaid.co.uk/pgp-key.txt
 Acknowledgements: https://warrantaid.co.uk/security-acknowledgements
+Expires: 2026-07-24
 Preferred-Languages: en

@@ -1,11 +1,13 @@
 /* TEAM */
-Developer: WarrantAid Ltd
+Developer: Robert Alcock
 Website: https://warrantaid.co.uk
-Location: United Kingdom
+Contact: info@warrantaid.co.uk
 
 /* SITE */
+Last updated: 2025-07-24
+Language: English (UK)
 Standards: HTML5, CSS3, JavaScript, GDPR-Compliant
-Components: Carrd Platform
+Keywords: Warranty Tracker UK, Subscription Alerts, Recall Notifications
 
 /* THANKS */
-Thanks to all contributors and partners.
+Carrd for hosting, Google Search Console for indexing
