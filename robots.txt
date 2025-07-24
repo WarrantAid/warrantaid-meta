@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://warrantaid.co.uk/sitemap.xml
+
+# Optimized for WarrantAid UK Warranty Tracker keywords
