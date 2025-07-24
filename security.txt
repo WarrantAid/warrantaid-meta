@@ -1,4 +1,4 @@
 Contact: mailto:info@warrantaid.co.uk
 Encryption: https://warrantaid.co.uk/pgp-key.txt
-Acknowledgments: https://warrantaid.co.uk/security
+Acknowledgements: https://warrantaid.co.uk/security-acknowledgements
 Preferred-Languages: en
