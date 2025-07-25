@@ -4,7 +4,7 @@ Website: https://warrantaid.co.uk
 Contact: info@warrantaid.co.uk
 
 /* SITE */
-Last updated: 2025-07-24
+Last updated: 2025-07-25
 Language: English (UK)
 Standards: HTML5, CSS3, JavaScript, GDPR-Compliant
 Keywords: Warranty Tracker UK, Subscription Alerts, Recall Notifications
