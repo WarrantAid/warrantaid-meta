@@ -1,6 +1,8 @@
 User-agent: *
 Allow: /
-
+Allow: /*.woff2
+Allow: /*.png
+Allow: /*.jpg
 Sitemap: https://meta.warrantaid.co.uk/sitemap.xml
 
 # SEO keywords hint
