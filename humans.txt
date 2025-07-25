@@ -10,4 +10,4 @@ Standards: HTML5, CSS3, JavaScript, GDPR-Compliant
 Keywords: Warranty Tracker UK, Subscription Alerts, Recall Notifications
 
 /* THANKS */
-Carrd for hosting, Google Search Console for indexing
+Carrd for hosting, GitHub Pages, Google Search Console for indexing
